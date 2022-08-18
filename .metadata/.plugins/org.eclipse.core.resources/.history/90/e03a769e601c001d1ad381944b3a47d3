@@ -1,0 +1,10 @@
+package subtraction_operator;
+
+public class Subtraction_operator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

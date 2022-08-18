@@ -1,0 +1,18 @@
+package relational_operator;
+
+public class Relational_operator 
+{
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		int a=20, b=20, c=40;
+		System.out.println("1st number is = " +a);
+		System.out.println("2nd number is = " +b);
+		System.out.println("3rd number is = " +c);
+		System.out.println("Is a is same as b? = "+(a==b));
+		System.out.println("Is a is same as c? = "+(a==c));
+
+	}
+
+}

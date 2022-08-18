@@ -1,0 +1,19 @@
+package logical_operator;
+
+public class Logical_operator 
+{
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+       int a=40, b=40, c=60, d=0;
+       if((a==b) && (a!=b)) {
+    	   d = a+b-c;
+    	   System.out.println("The ultimate value is = "+d);
+       }
+       else {
+    	   System.out.println("false statement");
+       }
+	}
+
+}
